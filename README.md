@@ -7,6 +7,7 @@ Execute an add function by passing in encrypted parameters.
 ```
 python3 -m venv venv
 source venv/bin/activate
+pip install -r .
 ```
 
 ## Running
